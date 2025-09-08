@@ -15,7 +15,7 @@
    ![Security](https://img.shields.io/badge/Security-Military--Grade-red)
    ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey)
 
-   [!my foto](foto.png)
+   ![my foto](foto.png)
  
   #### 🐧 Linux (Debian/Ubuntu)🚀
 
